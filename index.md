@@ -1,5 +1,5 @@
 [comment]: <> (XEducate documentation master file, created by
-   sphinx-quickstart on Mon Jun 26 08:46:36 2023.
+   sphinx-quickstart on Mon Feb 26 22:28:55 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.)
 
